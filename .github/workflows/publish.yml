@@ -6,7 +6,7 @@ on:
       - "0.1"
 
 jobs:
-  publish:
+  docker:
     name: Publish
     runs-on: ubuntu-latest
     steps:
